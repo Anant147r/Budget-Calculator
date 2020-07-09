@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding-top:20px;
+}
+
+ul{
+    list-style: none;
+}
+
+.App{
+    border-radius:2px;
+    padding:10px;
+    width:35%;
+    margin:0 auto;
+    background-color:orange;
+}
+
+input{
+    margin:10px auto;
+    display:block;
+    
+}
+
+input[type="submit"]{
+    width:100px;
+    height:30px;
+
+}
